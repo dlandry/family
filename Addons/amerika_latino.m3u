@@ -1,0 +1,745 @@
+﻿#EXTM3U
+#EXTINF:-1,***HasBahCa IPTV***AMERIKA-AMERICA-LATINO***LONG BUFFERS
+http://01.gen.tr/HasBahCa_IPTV/turkiye.mp4
+#EXTINF:-1,9 (Latino)
+http://uneapple-i.akamaihd.net/hls/live/206413/grupoune_st12@206413/st12_index.m3u8
+#EXTINF:-1,Antena 3 SD (Espana)
+http://uneapple-i.akamaihd.net/hls/live/205012/grupoune_st3@205012/st3_index.m3u8
+#EXTINF:-1,Argentina - C5N Argentina
+rtmp://c5n.stweb.tv:1935/c5n/live
+#EXTINF:-1,Argentina - Canal 12 – Córdoba, Argentiina
+http://iphone-streaming.ustream.tv/ustreamVideo/10923213/streams/live/playlist.m3u8
+#EXTINF:-1,Argentina - CANAL 13 ARGENITNA
+rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
+#EXTINF:-1,Argentina - Canal 5 Argentina
+rtmp://$OPT:rtmp-raw=rtmp://c5n.stweb.tv:1935/c5n playpath=live swfUrl=http://c5n.minutouno.com/js/c5n/jwplayer/player.swf live=1 pageUrl=http://www.miscanalesdetv.net/2013/02/c5n.html
+#EXTINF:-1,Argentina - Canal Rural 1
+rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1
+#EXTINF:-1,Argentina - CANAL RURAL 2
+rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural2
+#EXTINF:-1,Argentina - CANAL RURAL 3
+rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural3
+#EXTINF:-1,Argentina - LAPACHO TV CANAL 11 FORMOSA ARGENTINA
+rtmp://$OPT:rtmp-raw=rtmp://stream1.livestreamingservices.com:1935/tvcanal11 playpath=tvcanal11 swfUrl=http://www.lapachotv.com.ar/jwplayer/player.swf live=1 pageUrl=http://www.lapachotv.com.ar/vivo/
+#EXTINF:-1,Argentina - Quiero Musica mms
+mms://200.42.92.6:1755/qmusica
+#EXTINF:-1,Argentina - TN24 AR
+rtmp://$OPT:rtmp-raw=rtmp://stream.tn.com.ar/live playpath=tnhd3 swfUrl=http://tn.com.ar/sites/all/themes/dientuki/swf/dplayer/player.swf live=1 pageUrl=http://tn.com.ar/envivo/24hs/HD
+#EXTINF:-1,Argentina - Tucuman Canal 5
+rtsp://mobil.tucuman.tv/edge/scwsttv506460643395c
+#EXTINF:-1,Argentina-C5N
+rtmp://$OPT:rtmp-raw=rtmp://c5n.stweb.tv:1935/c5n playpath=live_media swfUrl=http://c5n.minutouno.com//js/c5n/jwplayer/player.swf live=1 pageUrl=http://c5n.minutouno.com/contenidos/home.html
+#EXTINF:-1,Argentina-CANAL 11 LAPACHO TV FORMOSA
+rtmp://$OPT:rtmp-raw=rtmp://stream1.livestreamingservices.com:1935/tvcanal11 playpath=tvcanal11 swfUrl=http://www.lapachotv.com.ar/jwplayer/player.swf live=1 pageUrl=http://www.lapachotv.com.ar/vivo/
+#EXTINF:-1,Argentina-Canal 3 Trelew
+http://198.49.76.226:1935/inovasd/inovasd/hasbahca.m3u8
+#EXTINF:-1,Argentina-CANAL 9
+rtmp://$OPT:rtmp-raw=rtmp://72.46.226.53:80/live01/_definst_ playpath=canal91 swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf live=true timeout=15 pageUrl=http://fpdownload.adobe.com/
+#EXTINF:-1,Argentina-EL TRECE HD
+rtmp://$OPT:rtmp-raw=rtmp://stream.eltrecetv.com.ar/live13/13tv/13tv1 playpath=13tv1 swfUrl=http://cdn.eltrecetv.com.ar/sites/all/libraries/jwplayer/player.swf pageUrl=http://www.eltrecetv.com.ar/vivo live=1
+#EXTINF:-1,ARGENTINA-MAGAZINE
+rtmp://$OPT:rtmp-raw=rtmp://stream.mgzn.tv/live/mgzntv/mgzntv playpath=mgzntv swfUrl=http://www.mgzn.tv/sites/all/themes/magazine/images/player.swf live=1 pageUrl=http://www.mgzn.tv/vivo
+#EXTINF:-1,Argentina-Pringles TV CANAL 6
+http://200.70.58.102:8080/?MSWMExt=online-television.net.asf
+#EXTINF:-1,Argentina-TN 24 HORAS HD
+rtmp://$OPT:rtmp-raw=rtmp://stream.tn.com.ar/live playpath=tnhd3 swfUrl=http://tn.com.ar/sites/all/themes/dientuki/swf/dplayer/player.swf live=1 pageUrl=http://tn.com.ar/envivo/24hs/HD
+#EXTINF:-1,BOLIVIA Redadvenir
+rtmp://streamer1.streamhost.org/salive/GMIalfam
+#EXTINF:-1,CableNoticias (Latino)
+http://uneapple-i.akamaihd.net/hls/live/205016/grupoune_st7@205016/st7_index.m3u8
+#EXTINF:-1,Canada -  METROVISION
+rtmp://$OPT:rtmp-raw=rtmp://cp228779.live.edgefcs.net:1935/live playpath=metrovision_live@138690 swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf/[[DYNAMIC]]/1 live=1 pageUrl=http://www.stream2video.tv/getCanada - /122/1
+#EXTINF:-1,Canada - ARGENT TV
+rtmp://$OPT:rtmp-raw=rtmp://cp39414.live.edgefcs.net/live/argent@9751 playpath=argent@9751 swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://tv.webactu-webtv.com/canada3/argent.html
+#EXTINF:-1,Canada - METRO TV
+rtmp://$OPT:rtmp-raw=rtmp://cp228779.live.edgefcs.net:1935/live playpath=metrovision_live@138690 swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf/[[DYNAMIC]]/1 live=1 pageUrl=http://tv.webactu-webtv.com/canada3/metro.html
+#EXTINF:-1,Canal Antiestres
+http://uneapple-i.akamaihd.net/hls/live/206413/grupoune_st12@206413/st12_index.m3u8
+#EXTINF:-1,Canal U (Latino)
+http://uneapple-i.akamaihd.net/hls/live/206416/grupoune_st15@206416/st15_index.m3u8
+#EXTINF:-1,Cantinazo TV (Latino)
+http://uneapple-i.akamaihd.net/hls/live/206419/grupoune_st18@206419/st18_index.m3u8
+#EXTINF:-1,Chile - AYSEN TV
+http://wow2.cl.digitalproserver.com/aysentv/aysentvvivo/aysentv.smil/hasbahca.m3u8
+#EXTINF:-1,Chile - C9 BIO BIO TV CONCEPCION
+http://wow2.cl.digitalproserver.com/c9//c9.smil/hasbahca.m3u8
+#EXTINF:-1,Chile - CAMARA DE DIPUTADOS
+rtsp://origin.camara.ztreaming.com/origincamara8/streamcam8.sdp
+#EXTINF:-1,Chile - CNN CHILE
+rtsp://200.104.250.183/vtr_cnn_online/cnn-web/
+#EXTINF:-1,Chile - CONTIVISION HD CONSTITUCION
+rtmp://stream1.eltelon.com:1935/live/contivision/contivision671
+#EXTINF:-1,Chile - EL PINGUINO TV CANAL 4 PUNTA ARENAS
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/hasbahca.m3u8
+#EXTINF:-1,Chile - TV PATAGONIA PUNTA ARENAS
+http://69.164.193.177:1935/live/myStream/hasbahca.m3u8
+#EXTINF:-1,Chile - TV SENADO
+http://senadortmp.janus.cl/senadotv/senado600/hasbahca.m3u8
+#EXTINF:-1,Chile - UNIACC TV CANAL 34 SANTIAGO
+http://upmv10.comcast.upmv.ustream.tv/0/1/40/40611/40611222/1_11176799_40611222.flv?tracking=ad6f16_61_1_0_0&src=ro&hash=7ae0
+#EXTINF:-1,Chile - VALLE TELEVISION CANAL 2 SAN FELIPE OPTION 2
+http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
+#EXTINF:-1,Click (Latino)
+http://uneapple-i.akamaihd.net/hls/live/206577/grupoune_st19@206577/st19_index.m3u8
+#EXTINF:-1,Colombia - Cable Noticias
+rtmp://$OPT:rtmp-raw=rtmp://50.23.172.98:1935/live/ playpath=cablenoticiastv
+#EXTINF:-1,CosmoVision (Latino)
+http://uneapple-i.akamaihd.net/hls/live/206415/grupoune_st14@206415/st14_index.m3u8
+#EXTINF:-1,Costa Rica - Canal 13
+rtmp://$OPT:rtmp-raw=rtmp://stream01.cyberfuel.com/SinartCanal13 playpath=livestream swfUrl=http://www.sinart.go.cr/canal13/sinart_video_canal13_480x360.swf live=1 pageUrl=http://wwitv.com/tv_channels/b2975.htm
+#EXTINF:-1,DOMINICIAN Telenord Canal 10
+rtmp://$OPT:rtmp-raw=rtmp://mek2.mekstream.com:1935/telenord10 playpath=live2 swfUrl=http://www.mekstream.com/clients/telenord10/player-licensed.swf live=1 pageUrl=http://www.telenord.com.do/index.php/canales/canal10
+#EXTINF:-1,DOMINICIAN Telenord Canal 8
+rtmp://$OPT:rtmp-raw=rtmp://mek2.mekstream.com:1935/telenord8 playpath=live2 swfUrl=http://www.mekstream.com/clients/telenord8/player-licensed.swf live=1 pageUrl=http://www.telenord.com.do/index.php/canales/canal8
+#EXTINF:-1,Dominik-Teleantillas Canal 2
+http://mek4.mekstream.com/teleantillas/live3/hasbahca.m3u8
+#EXTINF:-1,Dominik-Telefuturo Canal 23
+http://ss7.domint.net:1950/tf_str/futu/hasbahca.m3u8
+#EXTINF:-1,Dominik-Telesistema Canal 11
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
+#EXTINF:-1,Ecuador - Ecuador TV
+rtmp://$OPT:rtmp-raw=rtmp://38.96.148.216:1935/live playpath=ecuadortvn3 swfUrl=http://www.ecuadortv.ec/mod_video/player.swf live=1
+#EXTINF:-1,El Tiempo TV (Latino)
+http://uneapple-i.akamaihd.net/hls/live/207648/grupoune_st29@207648/st29_index.m3u8
+#EXTINF:-1,FRESHTV. TV
+rtmp://www.planeta-online.tv:1936/live/channel_4
+#EXTINF:-1,Gotica Music
+rtmp://149.11.34.6:1935/live/gotica.stream
+#EXTINF:-1,H13N
+http://uneapple-i.akamaihd.net/hls/live/205013/grupoune_st4@205013/st4_index.m3u8
+#EXTINF:-1,Kanada - LCN
+rtmp://$OPT:rtmp-raw=rtmp://cp39414.live.edgefcs.net:1935/live playpath=lcn1@9753 swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf/[[DYNAMIC]]/1 live=1 pageUrl=http://matelevision.blogspot.ca/2013/08/lcn.html
+#EXTINF:-1,Kanada - Savoir
+rtsp://stream2.canal.qc.ca/enOndes_haut_debit
+#EXTINF:-1,Latino - C5N noticias
+rtmp://c5n.stweb.tv:1935/c5n/live_media
+#EXTINF:-1,Latino - EuroNews noticias en español
+rtmp://$OPT:rtmp-raw=rtmp://fr-par-10-stream-relay.hexaglobe.net:80/rtpeuronewslive playpath=es_video350_rtp.sdp swfUrl=http://es.euronews.com/media/player_live_1_14.swf live=1 pageUrl=http://es.euronews.com/noticias/en-directo/
+#EXTINF:-1,Latino - hispantv
+rtmp://mtv.fms-01.visionip.tv/live/mtv-m_tv-live-25f-4x3-SDh
+#EXTINF:-1,Latino - MTV Latino
+rtmp://$OPT:rtmp-raw=rtmp://extondemand.livestream.com/ondemand playpath=trans/union/mogulus-user-files/ch40tv/2008/07/03/5f104d19-82ae-4810-99e0-dc93269972f5
+#EXTINF:-1,Latino - Teleantillas
+rtmp://$OPT:rtmp-raw=rtmp://mek4.mekstream.com/teleantillas playpath=live3_source swfUrl=http://www.mekstream.com/clients/teleantillas/player-licensed.swf live=1 pageUrl=http://teleantillas.com.do/senal-en-vivo/
+#EXTINF:-1,Latino - Telesistema
+rtmp://$OPT:rtmp-raw=rtmp://mek4.mekstream.com/telesistema playpath=live3 swfUrl=http://www.mekstream.com/clients/telesistema/player-licensed.swf live=1 pageUrl=http://telesistema11.com.do/senal-en-vivo/
+#EXTINF:-1,Life Desing TV (Latino)
+http://uneapple-i.akamaihd.net/hls/live/207384/grupoune_st22@207384/st22_index.m3u8
+#EXTINF:-1,Me suena
+http://uneapple-i.akamaihd.net/hls/live/205017/grupoune_st8@205017/st8_index.m3u8
+#EXTINF:-1,MeSuena TV
+http://uneapple-i.akamaihd.net/hls/live/215955/grupoune_st44@215955/st44_index.m3u8
+#EXTINF:-1,MeSuena TV (Opcion 2)
+http://uneapple-i.akamaihd.net/hls/live/205017/grupoune_st8@205017/st8_index.m3u8
+#EXTINF:-1,MeSuena TV (Opcion 3)
+http://uneapple-i.akamaihd.net/hls/live/207643/grupoune_st24@207643/st24_index.m3u8
+#EXTINF:-1,MeSuena TV (Opcion 4)
+http://uneapple-i.akamaihd.net/hls/live/207646/grupoune_st27@207646/st27_index.m3u8
+#EXTINF:-1,MeSuena TV (Opcion 5)
+http://uneapple-i.akamaihd.net/hls/live/215944/grupoune_st33@215944/st33_index.m3u8
+#EXTINF:-1,MEXICO - AZTECA NOTICIAS
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+#EXTINF:-1,Mexico - Canal 11 Mexico
+rtmp://$OPT:rtmp-raw=rtmp://www.oncetvmexicolive.tv:1935/livepkgr2 playpath=int3 swfUrl=http://www.oncetvmexicolive.tv/StrobeMediaPlayback.swf live=1 pageUrl=http://www.elchoyerotv.tv/2013/09/canal-once-tv-en-vivo-online.html
+#EXTINF:-1,Mexico - Canal 22 de Mexico
+rtmp://origen.cloudapp.net:1935/live/envivopc
+#EXTINF:-1,Mexico - Canal 22 Mexico
+rtmp://$OPT:rtmp-raw=rtmp://origen.cloudapp.net/live/ playpath=envivopc swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.streamsportlive.me/15.html
+#EXTINF:-1,Mexico - Canal 6 Guadalajara Mexico
+rtmp://200.52.193.57:1935/live/unique/live_2650
+#EXTINF:-1,Mexico - ERH
+rtmp://$OPT:rtmp-raw=rtmp://72.233.78.178/live/ playpath=A swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.streamsportlive.me/20.html
+#EXTINF:-1,Mexico - milenio_centro
+http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956
+#EXTINF:-1,MEXICO - MULTIMEDIOS TV
+http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?file=ChelTV_m3u8
+#EXTINF:-1,Mexico - oncetv
+rtmp://$OPT:rtmp-raw=rtmp://www.oncetvmexicolive.tv:1935/livepkgr2 playpath=int3 swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf/[[DYNAMIC]]/1 live=1 pageUrl=http://www.stream2video.tv/getStream/137/1
+#EXTINF:-1,Mexico - Radio y Televisión Mexiquense
+rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
+#EXTINF:-1,Mexico - TVMas Mexico
+rtmp://50.7.98.234/rtv/videortv
+#EXTINF:-1,Mexico Canal 10
+rtmp://$OPT:rtmp-raw=rtmp://www.oncetvmexicolive.tv:1935/livepkgr2 playpath=int3 swfUrl=http://www.oncetvmexicolive.tv/StrobeMediaPlayback.swf
+#EXTINF:-1,Mexico -Mexiquense
+rtmp://$OPT:rtmp-raw=rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_ playpath=broadcast1 swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf/[[DYNAMIC]]/1 live=1 pageUrl=http://www.stream2video.tv/getStream/134/1
+#EXTINF:-1,MiMusica TV (Latino)
+http://uneapple-i.akamaihd.net/hls/live/206731/grupoune_st20@206731/st20_index.m3u8
+#EXTINF:-1,PAX TV HD
+rtmp://124.139.232.61:1935/live/livestream
+#EXTINF:-1,Relax TV
+rtmp://www.planeta-online.tv:1936/live/channel_3
+#EXTINF:-1,Single TV
+rtmp://149.11.34.78/live/singletv.stream
+#EXTINF:-1,Tele Medellin (Latino)
+http://uneapple-i.akamaihd.net/hls/live/206414/grupoune_st13@206414/st13_index.m3u8
+#EXTINF:-1,TeleAntioquia (Latino)
+http://uneapple-i.akamaihd.net/hls/live/205014/grupoune_st5@205014/st5_index.m3u8
+#EXTINF:-1,teleasturias
+rtmp://149.11.34.6/live/teleasturias.stream
+#EXTINF:-1,TeleCafe (Latino)
+http://uneapple-i.akamaihd.net/hls/live/206417/grupoune_st16@206417/st16_index.m3u8
+#EXTINF:-1,TeleVentas TV (Latino)
+http://uneapple-i.akamaihd.net/hls/live/205011/grupoune_st2@205011/st2_index.m3u8
+#EXTINF:-1,TOUR TV
+rtmp://www.planeta-online.tv:1936/live/channel_2
+#EXTINF:-1,TRENDY (Latino)
+http://uneapple-i.akamaihd.net/hls/live/205019/grupoune_st10@205019/st10_index.m3u8
+#EXTINF:-1,tv Agro (Latino)
+http://uneapple-i.akamaihd.net/hls/live/205015/grupoune_st6@205015/st6_index.m3u8
+#EXTINF:-1,Unlove
+rtmp://149.11.34.6/live/unlovechannel.stream
+#EXTINF:-1,Vevo1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:-1,Vevo2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:-1,Vevo3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+#EXTINF:-1,VIO (Latino)
+http://uneapple-i.akamaihd.net/hls/live/205018/grupoune_st9@205018/st9_index.m3u8
+#EXTINF:-1,VMas+ TV (Latino)
+http://uneapple-i.akamaihd.net/hls/live/207642/grupoune_st23@207642/st23_index.m3u8
+#EXTINF:-1,Yes!
+http://uneapple-i.akamaihd.net/hls/live/205010/grupoune_st1@205010/st1_index.m3u8
+#EXTINF:-1,Yes!
+http://uneapple-i.akamaihd.net/hls/live/206731/grupoune_st20@206731/st20_index.m3u8
+#EXTINF:-1,BRASIL:***HasBahCa IPTV***BREZILYA-BRASILIEN-BRASIL***
+http://01.gen.tr/HasBahCa_IPTV/turkiye.mp4
+#EXTINF:-1,BRASIL:ARAGON TV
+rtmp://$OPT:rtmp-raw=rtmp://aragontvlivefs.fplive.net/aragontvlive-live/stream_normal_abt playpath=stream_normal_abt swfUrl=http://www.jaxe.net/player/player-old.swf?file=stream_normal_abt&type=flv&streamer=rtmp://aragontvlivefs.fplive.net/aragontvlive-live&autostart=true&stretching=exactfit&mute=false&skin=http://www.jaxe.net/player/dangdang.swf live=1 pageUrl=http://cinestrenos-tv2.webs.com/canales%20autonomicos/aragontv.htm
+#EXTINF:-1,BRASIL:BASTA CRER
+rtmp://streamspub.manasat.com/live/bastacrer
+#EXTINF:-1,BRASIL:BOING
+http://us.123rf.com/450wm/naypong/naypong1303/naypong130300194/18587909-no-hay-senal-imagenes-abstractas-senales-de-television.jpg
+#EXTINF:-1,BRASIL:Canal Do Boi Tv
+rtmp://srvvenus.canaldoboi.com/livecb/livestream
+#EXTINF:-1,BRASIL:CANAL+ PORTADA
+http://plus_1-f.akamaihd.net/media/1039301517001/201308/27/1039301517001_263230,1035,3309,001_173716.mp4.csmil/bitrate=1?videoId=2632264176001&lineUpId=&pubId=1039301517001&playerId=1133432061001&affiliateId=&v=3.1.0&fp=WIN 11,8,800,94&r=UPPYQ&g=WWGJRCQKIUUJ
+#EXTINF:-1,BRASIL:CANAL+ XTRA
+http://us.123rf.com/450wm/naypong/naypong1303/naypong130300194/18587909-no-hay-senal-imagenes-abstractas-senales-de-television.jpg
+#EXTINF:-1,BRASIL:Cartoon Network
+rtmp://$OPT:rtmp-raw=rtmp://31.204.128.140/live/ playpath=brlive_0028 swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/Cartoon Network.html
+#EXTINF:-1,BRASIL:CLAN
+http://media0.rtve.es/resources/TE_GLESP/mp4/5/1/1303316681415.mp4?aksessionid=1303766307140_392613
+#EXTINF:-1,BRASIL:Conexaobr Tv
+rtmp://srvvenus.canaldoboi.com/livecx/livestream
+#EXTINF:-1,BRASIL:CWB tv
+http://67.213.216.200/8066/8066/hasbahca.m3u8
+#EXTINF:-1,BRASIL:dis15
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live pageUrl=http://tv-msn.com swfUrl=http://www.tv-msn.com/player/player.swf playpath=disney
+#EXTINF:-1,BRASIL:Disney
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=disney swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://www.tv-msn.com/disney.html
+#EXTINF:-1,BRASIL:Disney XD
+rtmp://$OPT:rtmp-raw=rtmp://85.12.5.8/aovivo playpath=xd swfUrl=http://www.tvonlinegratis.tv/protegido.swf live=1 pageUrl=http://www.tvonlinegratis.tv/parcerias/disney-xd.php
+#EXTINF:-1,BRASIL:Extremadura TV
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+#EXTINF:-1,BRASIL:Extremadura TV
+rtmp://corporacionextremenaocclivefs.fplive.net/corporacionextremenalive-live//stream1
+#EXTINF:-1,BRASIL:First Music HD 1080p
+rtmp://109.239.142.62/live/livestream3
+#EXTINF:-1,BRASIL:FOX
+rtmp://$OPT:rtmp-raw=rtmp://31.204.128.140/live/ playpath=fox swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/FOX.html
+#EXTINF:-1,BRASIL:FOX
+rtmp://$OPT:rtmp-raw=rtmp://31.204.153.72/live/ playpath=fsb swfUrl=http://www.cdnbr.biz/swf/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/FSB.html
+#EXTINF:-1,BRASIL:FOX AMERIKA
+rtmp://$OPT:rtmp-raw=rtmp://31.204.153.72/live/ playpath=fsb swfUrl=http://www.cdnbr.biz/swf/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/FSB.html
+#EXTINF:-1,BRASIL:FX
+rtmp://$OPT:rtmp-raw=rtmp://31.204.128.75/live/ playpath=master25 swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/FX.html
+#EXTINF:-1,BRASIL:GALICIA TV
+rtmp://$OPT:rtmp-raw=rtmp://media3.crtvg.es:80/live/tvge_2 playpath=tvge_2 swfUrl=http://www.crtvg.es/flowplayer3/flowplayer.commercial-3.2.7.swf live=1 pageUrl=http://www.crtvg.es/tvg/tvg-en-directo
+#EXTINF:-1,BRASIL:HBO Family
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=hbofamily swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://tv-msn.com/hbofamily.html
+#EXTINF:-1,BRASIL:HBO2
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=hbo2 swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://tv-msn.com/hbo2.html
+#EXTINF:-1,BRASIL:hi1
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live pageUrl=http://tv-msn.com swfUrl=http://www.tv-msn.com/player/player.swf playpath=history
+#EXTINF:-1,BRASIL:ho14
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live pageUrl=http://tv-msn.com swfUrl=http://www.tv-msn.com/player/player.swf playpath=home
+#EXTINF:-1,BRASIL:IB3
+rtmp://$OPT:rtmp-raw=rtmp://ib3tvlivefs.fplive.net/ib3tvlive-live playpath=streamib3 swfUrl=http://ib3cdn.s3.amazonaws.com/player/player.swf live=1 pageUrl=http://www.omegateam.byethost7.com/ch/i-ib3.php --live
+#EXTINF:-1,BRASIL:Igreja Cristo Vive mms
+mms://overserver1000.com/tvcristovive3
+#EXTINF:-1,BRASIL:JAZZ TV (MUSICA)
+rtmp://$OPT:rtmp-raw=rtmp://149.11.34.78/live playpath=jazztv.stream swfUrl=http://lasteles.com/js/mediaplayer-5.10/player.swf?426 live=1 pageUrl=http://lasteles.com/es/directo/
+#EXTINF:-1,BRASIL:LEVANTE TV
+rtmp://$OPT:rtmp-raw=rtmp://teledifusion.tv:1935/levantetvlive playpath=levantetvlive swfUrl=http://www.levantetv.es//servicios/streaming/player.swf?file=levantetvlive.flv&streamer=rtmp://teledifusion.tv:1935/levantetvlive&autostart=true&wmode=transparent live=1 pageUrl=http://www.levantetv.es//servicios/streaming/player.swf?file=levantetvlive.flv&streamer=rtmp://teledifusion.tv:1935/levantetvlive&autostart=true&wmode=transparent --live
+#EXTINF:-1,BRASIL:MANA SAT
+rtmp://195.22.19.179/manasat/manasat2
+#EXTINF:-1,BRASIL:Max HD
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=maxhd swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://tv-msn.com/maxhd.html
+#EXTINF:-1,BRASIL:MTV
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=hbohd swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://tv-msn.com/mtv.html
+#EXTINF:-1,BRASIL:na3
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live pageUrl=http://tv-msn.com swfUrl=http://www.tv-msn.com/player/player.swf playpath=natgeo
+#EXTINF:-1,BRASIL:ni4
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live pageUrl=http://tv-msn.com swfUrl=http://www.tv-msn.com/player/player.swf playpath=nickjr
+#EXTINF:-1,BRASIL:Nick JR
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=nickjr swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://tv-msn.com/nickjr.htm
+#EXTINF:-1,BRASIL:NICKELODEON
+http://us.123rf.com/450wm/naypong/naypong1303/naypong130300194/18587909-no-hay-senal-imagenes-abstractas-senales-de-television.jpg
+#EXTINF:-1,BRASIL:NTV 8
+http://www.tvtuga.com/live47/ntv8.asx
+#EXTINF:-1,BRASIL:Rede Família
+rtsp://srv3.ntelecom.com.br/redefamilia
+#EXTINF:-1,BRASIL:REDE FAMILIA mms
+mms://srv3.ntelecom.com.br/redefamilia
+#EXTINF:-1,BRASIL:Rede Minas
+rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp
+#EXTINF:-1,BRASIL:SBT
+rtmp://$OPT:rtmp-raw=rtmp://31.204.128.76/live/ playpath=master94 swfUrl=http://www.cdnbr.biz/swf/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/SBT.html
+#EXTINF:-1,BRASIL:SBT SP
+rtmp://$OPT:rtmp-raw=rtmp://31.204.128.76/live/ playpath=master94 swfUrl=http://www.cdnbr.biz/swf/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/SBT.html
+#EXTINF:-1,BRASIL:son2
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live pageUrl=http://tv-msn.com swfUrl=http://www.tv-msn.com/player/player.swf playpath=sonyspin
+#EXTINF:-1,BRASIL:sony6
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live pageUrl=http://tv-msn.com swfUrl=http://www.tv-msn.com/player/player.swf playpath=sony
+#EXTINF:-1,BRASIL:st10
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live pageUrl=http://tv-msn.com swfUrl=http://www.tv-msn.com/player/player.swf playpath=studio
+#EXTINF:-1,BRASIL:syfy
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live pageUrl=http://tv-msn.com swfUrl=http://www.tv-msn.com/player/player.swf playpath=syfy
+#EXTINF:-1,BRASIL:tele cult
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live pageUrl=http://tv-msn.com swfUrl=http://www.tv-msn.com/player/player.swf playpath=tccult
+#EXTINF:-1,BRASIL:Telecine Action
+rtmp://$OPT:rtmp-raw=rtmp://31.204.128.75/live/ playpath=master17 swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/Telecine Action.html
+#EXTINF:-1,BRASIL:Telecine Fun
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=fun2 swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://tv-msn.com/fun.html
+#EXTINF:-1,BRASIL:Telecine Pipoca
+rtmp://$OPT:rtmp-raw=rtmp://31.204.128.74/live/ playpath=master18 swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/Telecine Pipoca.html
+#EXTINF:-1,BRASIL:Telecine Touch
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=touch swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://tv-msn.com/touch.html
+#EXTINF:-1,BRASIL:TNT
+rtmp://$OPT:rtmp-raw=rtmp://31.204.128.74/live/ playpath=master77 swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/TNT.html
+#EXTINF:-1,BRASIL:to7
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live pageUrl=http://tv-msn.com swfUrl=http://www.tv-msn.com/player/player.swf playpath=tooncast
+#EXTINF:-1,BRASIL:TV Aberta-PUC TV (Rede Aparecida) mms
+mms://wms.softhost.com.br/ucgtv
+#EXTINF:-1,BRASIL:TV Aberta-TCM - Canal Local - Mossoró RN
+rtmp://177.154.192.30/live/canal10
+#EXTINF:-1,BRASIL:TV Aberta-TV Brasil Central (Cultura)
+http://rsync.com.br:1935/rsync00026/rsync.sdp/playlist.m3u8
+#EXTINF:-1,BRASIL:TV Aberta-TV Capital
+rtmp://fms.softhost.com.br/tcp/victor3
+#EXTINF:-1,BRASIL:TV Aberta-TV Cidade Petrópolis
+rtmp://50.22.247.58:1935/8226/8226
+#EXTINF:-1,BRASIL:TV Aberta-TV COM SANTOS
+rtsp://streaming46.sitehosting.com.br:1935/tvcomsantos/tvcomsantos
+#EXTINF:-1,BRASIL:TV Aberta-Tv Diario
+http://livela.sambatech.com.br/hls-live/livepkgr/tvdiario_2ff357495c9f34b35fc02b51ee33d935/liveevent/livestream.m3u8
+#EXTINF:-1,BRASIL:TV Aberta-TV ESCOLA
+http://livela.sambatech.com.br/hls-live/livepkgr/acerp_1f9a5d00db56b3c3020b6ac3dd693e12/liveevent/livestream.m3u8
+#EXTINF:-1,BRASIL:TV Aberta-TV Santa Cecília HD - Santos
+rtmp://174.37.200.35/2063/2063
+#EXTINF:-1,BRASIL:TV Aberta-TV UFG (TV Brasil)
+rtmp://fms.softhost.com.br/ufg/altaqualidade
+#EXTINF:-1,BRASIL:TV Aberta-UCS TV
+rtmp://199.217.118.218/UCS-TV/UCS-TV
+#EXTINF:-1,BRASIL:TV MANÁ BRASIL
+http://195.22.19.189:1935/tvbr/tvbrasil2/hasbahca.m3u8
+#EXTINF:-1,BRASIL:TV MANÁ Cordoba
+http://195.22.19.189:1935/tvar/tvmanaar2/hasbahca.m3u8
+#EXTINF:-1,BRASIL:TV MANÁ ENG
+http://195.22.19.183:1935/tven/tven3/hasbahca.m3u8
+#EXTINF:-1,BRASIL:TV MANÁ FRANCE
+http://195.22.19.183:1935/tvfr/tvfr3/hasbahca.m3u8
+#EXTINF:-1,BRASIL:TV MANÁ PORTUGAL
+http://195.22.19.179:1935/manasat/manasat2/hasbahca.m3u8
+#EXTINF:-1,BRASIL:TV MANÁ SAT BRASIL
+http://195.22.19.179:1935/manasat/manasat3/hasbahca.m3u8
+#EXTINF:-1,BRASIL:TV MANÁ SPAIN
+http://195.22.19.183:1935/tvesp/tvesp3/hasbahca.m3u8
+#EXTINF:-1,BRASIL:TV Maná-Maputo
+http://195.22.19.189:1935/tvmz/tvmz3/hasbahca.m3u8
+#EXTINF:-1,BRASIL:TV MELILLA
+rtmp://$OPT:rtmp-raw=rtmp://stream.tvmelilla.es:1935/tvmelilla playpath=live swfUrl=http://tvmelilla.es/jwplayer/player.swf live=1 pageUrl=http://tvmelilla.es/directo.html
+#EXTINF:-1,BRASIL:TV Mocinha mms
+mms://tvmocinha.radioamfm.com.br/tvmocinha
+#EXTINF:-1,BRASIL:TV Pocos - Sports
+rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp
+#EXTINF:-1,BRASIL:Tve 24h
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1,BRASIL:UCG TV Canal 24 mms
+mms://wms.softhost.com.br/ucgtv
+#EXTINF:-1,BRASIL:VEVO HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
+#EXTINF:-1,BRASIL:Warner
+rtmp://$OPT:rtmp-raw=rtmp://31.204.128.76/live/ playpath=master22 swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/Warner Brothers.html
+#EXTINF:-1,Spain:***HasBahCa IPTV***ISPANYOLCA-SPANISCH-SPAIN***
+http://01.gen.tr/HasBahCa_IPTV/turkiye.mp4
+#EXTINF:-1,Spain:24 Horas
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1,Spain:24horas
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_1.m3u8
+#EXTINF:-1,Spain:Alfa TV
+rtsp://streamer1.streamhost.org:1935/salive/GMIalfah
+#EXTINF:-1,Spain:Amazing Facts TV
+http://bglive-w.bitgravity.com/amazingfacts/live/feed01
+#EXTINF:-1,Spain:Antena 3
+http://uneapple-i.akamaihd.net/hls/live/205012/grupoune_st3@205012/st3_index.m3u8
+#EXTINF:-1,Spain:ANTENA 3 HD(FULL HD)
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1,Spain:ARAGON TV
+http://149.11.34.6:1935/live/aragontv.stream/vcx7.m3u8
+#EXTINF:-1,Spain:Aragon tv
+rtmp://$OPT:rtmp-raw=rtmp://aragontvlivefs.fplive.net/aragontvlive-live playpath=stream_normal_abt swfUrl=http://alacarta.aragontelevision.es/streaming/flowplayer.commercial-3.2.7.swf live=1 pageUrl=http://alacarta.aragontelevision.es/streaming/streaming.html --live
+#EXTINF:-1,Spain:BBC
+http://uneapple-i.akamaihd.net/hls/live/205014/grupoune_st5@205014/st5_index.m3u8
+#EXTINF:-1,Spain:Canal Antiestres
+http://uneapple-i.akamaihd.net/hls/live/206413/grupoune_st12@206413/st12_index.m3u8
+#EXTINF:-1,Spain:CANAL DDIOCESANO
+rtmp://flash3.todostreaming.es/edesco/livestream
+#EXTINF:-1,Spain:CANAL DIOCESANO
+http://flash3.todostreaming.es/edesco/livestream/hasbahca.m3u8
+#EXTINF:-1,Spain:Canal U
+http://uneapple-i.akamaihd.net/hls/live/206416/grupoune_st15@206416/st15_index.m3u8
+#EXTINF:-1,Spain:Cantinazo TV
+http://uneapple-i.akamaihd.net/hls/live/206419/grupoune_st18@206419/st18_index.m3u8
+#EXTINF:-1,Spain:Cine chileno
+rtmp://$OPT:rtmp-raw=rtmp://149.11.34.6/live playpath=sesioncontinuatv.stream swfUrl=http://lasteles.com/js/mediaplayer-5.10/player.swf?35 live=1 pageUrl=http://lasteles.com/es/directo/SESI%C3%93N-CONT%C3%8DNUA-TV/
+#EXTINF:-1,Spain:Click
+http://uneapple-i.akamaihd.net/hls/live/206577/grupoune_st19@206577/st19_index.m3u8
+#EXTINF:-1,Spain:CLUB DIRECTO TV
+rtmp://87.106.183.39/live/myStream_2
+#EXTINF:-1,Spain:Cosmovision
+http://uneapple-i.akamaihd.net/hls/live/206415/grupoune_st14@206415/st14_index.m3u8
+#EXTINF:-1,Spain:DISCOVERY KIDS
+rtmp://$OPT:rtmp-raw=rtmp://31.204.128.74/live/master24 swfUrl=http://www.cdnbr.biz/ pageUrl=http://www.cdnbr.biz/mastertv/
+#EXTINF:-1,Spain:DOCU
+http://uneapple-i.akamaihd.net/hls/live/206414/grupoune_st13@206414/st13_index.m3u8
+#EXTINF:-1,Spain:EL TIEMPO
+http://uneapple-i.akamaihd.net/hls/live/207648/grupoune_st29@207648/st29_index.m3u8
+#EXTINF:-1,Spain:Euronews
+rtmp://$OPT:rtmp-raw=rtmp://149.11.34.78/live playpath=euronewses.stream swfUrl=http://www.lasteles.com/js/mediaplayer-5.10/player.swf?82 live=1 pageUrl=http://www.lasteles.com/es/directo/INTERNACIONALES/video/Euronews/10235
+#EXTINF:-1,Spain:First Music HD 1080p
+rtmp://109.239.142.62/live/livestream3
+#EXTINF:-1,Spain:First Music HD 1080p
+http://109.239.142.62:1935/live/hlsstream/playlist3.m3u8
+#EXTINF:-1,Spain:GLOOB
+rtmp://$OPT:rtmp-raw=rtmp://31.204.128.73/live/master35 swfUrl=http://www.cdnbr.biz/ pageUrl=http://www.cdnbr.biz/mastertv/
+#EXTINF:-1,Spain:Gotica tv (musica)
+rtmp://$OPT:rtmp-raw=rtmp://149.11.34.6/live playpath=gotica.stream swfUrl=http://tvonlineapp.com/player/jwplayer/player.swf live=1 pageUrl=http://tvonlineapp.com/app/containerEmbed.php?p=11641
+#EXTINF:-1,Spain:GUATEVISION TV
+http://bravo967.sysvirtuales.com/live/stream1.sdp/hasbahca.m3u8
+#EXTINF:-1,Spain:H13N
+http://uneapple-i.akamaihd.net/hls/live/205013/grupoune_st4@205013/st4_index.m3u8
+#EXTINF:-1,Spain:HOGAR UTIL
+http://brightcove03-f.akamaihd.net/HOGARUTIL_1_1100@117573?videoId=2518851062001&lineUpId=&pubId=2385340627001&playerId=2418571368001&affiliateId=&v=3.1.0&fp=WIN%2011,9,900,117&r=JRBLZ&g=LBXIUFRGSVGB
+#EXTINF:-1,Spain:Huesca TV
+rtmp://streaming2.radiohuesca.com/live/huescatv
+#EXTINF:-1,Spain:IB3
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
+#EXTINF:-1,Spain:IB3 Islas Baleares TV
+rtmp://$OPT:rtmp-raw=rtmp://ib3tvlivefs.fplive.net/ib3tvlive-live playpath=streamib3 swfUrl=http://www.jaxe.net/player/player-o...&skin=http://www.jaxe.net/player/dangdang.swflive=1 pageUrl=http://www.tutvendirecto.com/2013/01/ver-ib3-islas-baleares-tv-online-en.html
+#EXTINF:-1,Spain:IBIZA ON TV
+rtsp://46.249.213.87/broadcast/ibizaontv-tablet.3gp?trackingid=3041310000
+#EXTINF:-1,Spain:Imprescindibles TV(ROCK)-azboz
+rtmp://$OPT:rtmp-raw=rtmp://149.11.34.78/live playpath=imprestv.stream swfUrl=http://www.lasteles.com/js/mediaplayer-5.10/player.swf?861 live=1 pageUrl=http://www.lasteles.com/es/musica/ROCK/
+#EXTINF:-1,Spain:JAZZ TV (MUSICA)?
+rtmp://$OPT:rtmp-raw=rtmp://149.11.34.78/live playpath=jazztv.stream swfUrl=http://lasteles.com/js/mediaplayer-5.10/player.swf?426 live=1 pageUrl=http://lasteles.com/es/directo/
+#EXTINF:-1,Spain:Kiss tv (Musica)
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+#EXTINF:-1,Spain:Kiss tv (Musica)
+rtmp://$OPT:rtmp-raw=rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/ playpath=live swfUrl=http://www.kisstelevision.es/flowplayer-3.2.16.swf live=vcx7
+#EXTINF:-1,Spain:LA RED EN VIVO
+http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/hasbahca.m3u8
+#EXTINF:-1,Spain:La Sexta
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1,Spain:LaSexta HD
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1,Spain:Levante Tv
+rtmp://$OPT:rtmp-raw=rtmp://teledifusion.tv:1935/levantetvlive playpath=levantetvlive swfUrl=http://www.levantetv.es//servicios/...evantetvlive&autostart=true&wmode=transparent live=1 pageUrl=http://www.levantetv.es//servicios/...evantetvlive&autostart=true&wmode=transparent --live
+#EXTINF:-1,Spain:Libertad Digital TV
+rtmp://$OPT:rtmp-raw=rtmp://149.11.34.6/live playpath=ldtv.stream swfUrl=http://lasteles.com/js/mediaplayer-5.10/player.swf?155 live=1 pageUrl=http://lasteles.com/es/directo/LIBERTAD-DIGITAL/
+#EXTINF:-1,Spain:Libertad Digital TV
+http://149.11.34.6:1935/live/ldtv.stream/playlist.m3u8
+#EXTINF:-1,Spain:Life Design HD
+http://uneapple-i.akamaihd.net/hls/live/207384/grupoune_st22@207384/st22_index.m3u8
+#EXTINF:-1,Spain:LOBAS TV(musica)
+rtmp://$OPT:rtmp-raw=rtmp://149.11.34.78/live playpath=lobas.stream swfUrl=http://www.lasteles.com/js/mediaplayer-5.10/player.swf?191live=1 pageUrl=http://www.lasteles.com/es/directo/LOBAS-TV/video/LOBAS-TV/1159
+#EXTINF:-1,Spain:Local Sevilla
+http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8
+#EXTINF:-1,Spain:Localia tv
+rtmp://$OPT:rtmp-raw=rtmp://streaming2.radiohuesca.com/live/ playpath=huescatv swfUrl=http://www.lookfortv.com/player22.swf live=1 pageUrl=http://www.lookfortv.com/es/countmedia.php?c=2974 --live
+#EXTINF:-1,Spain:Me suena
+http://uneapple-i.akamaihd.net/hls/live/205017/grupoune_st8@205017/st8_index.m3u8
+#EXTINF:-1,Spain:mimusica
+http://uneapple-i.akamaihd.net/hls/live/206731/grupoune_st20@206731/st20_index.m3u8
+#EXTINF:-1,Spain:MULTISHOW
+rtmp://$OPT:rtmp-raw=rtmp://31.204.128.74/live/brlive_0031 swfUrl=http://www.cdnbr.biz/ pageUrl=http://www.cdnbr.biz/mastertv/
+#EXTINF:-1,Spain:NewsPeople tv
+rtmp://$OPT:rtmp-raw=rtmp://149.11.34.78/live playpath=newspeopletv.stream swfUrl=http://lasteles.com/js/mediaplayer-5.10/player.swf?25 live=1 pageUrl=http://lasteles.com/es/directo/NEWS-PEOPLE/
+#EXTINF:-1,Spain:NICK HD
+rtmp://$OPT:rtmp-raw=rtmp://31.204.153.72/live/hd2 swfUrl=http://www.cdnbr.biz/ pageUrl=http://www.cdnbr.biz/mastertv/
+#EXTINF:-1,Spain:NOVEDADES TV
+http://uneapple-i.akamaihd.net/hls/live/205011/grupoune_st2@205011/st2_index.m3u8
+#EXTINF:-1,Spain:PARTY TV-(Musica)
+rtmp://$OPT:rtmp-raw=rtmp://149.11.34.6/live playpath=partytv.stream swfUrl=http://www.lasteles.com/js/mediaplayer-5.10/player.swf?729 live=1 pageUrl=http://www.lasteles.com/es/directo/PARTY-TV/video/Party-TV/10870
+#EXTINF:-1,Spain:PTV Cordoba
+http://212.225.255.241:1111
+#EXTINF:-1,Spain:Single TV
+rtmp://$OPT:rtmp-raw=rtmp://149.11.34.78/live playpath=singletv.stream swfUrl=http://www.lasteles.com/js/mediaplayer-5.10/player.swf?153 live=1 pageUrl=http://www.lasteles.com/es/musica/SENCILLOS/
+#EXTINF:-1,Spain:STAGE TV-(musica) 24 horas de los mejores Directos
+rtmp://$OPT:rtmp-raw=rtmp://149.11.34.6/live playpath=stagetv.stream swfUrl=http://www.lasteles.com/js/mediaplayer-5.10/player.swf?922 live=1 pageUrl=http://www.lasteles.com/es/directo/STAGE-TV/
+#EXTINF:-1,Spain:STV Rioja mms
+mms://87.106.208.121/stv
+#EXTINF:-1,Spain:Suena TV
+http://uneapple-i.akamaihd.net/hls/live/215955/grupoune_st44@215955/st44_index.m3u8
+#EXTINF:-1,Spain:TC PIPOCA
+rtmp://$OPT:rtmp-raw=rtmp://31.204.128.74/live/master18 swfUrl=http://www.cdnbr.biz/ pageUrl=http://www.cdnbr.biz/mastertv/
+#EXTINF:-1,Spain:telecafe
+http://uneapple-i.akamaihd.net/hls/live/206417/grupoune_st16@206417/st16_index.m3u8
+#EXTINF:-1,Spain:Telemadrid
+http://iphone.telemadrid.es.edgesuite.net/telemadridsat_iphone.m3u8
+#EXTINF:-1,Spain:telemedellin
+http://uneapple-i.akamaihd.net/hls/live/206414/grupoune_st13@206414/st13_index.m3u8
+#EXTINF:-1,Spain:TN
+http://uneapple-i.akamaihd.net/hls/live/205016/grupoune_st7@205016/st7_index.m3u8
+#EXTINF:-1,Spain:TNT
+rtmp://$OPT:rtmp-raw=rtmp://31.204.128.74/live/master77 swfUrl=http://www.cdnbr.biz/ pageUrl=http://www.cdnbr.biz/mastertv/
+#EXTINF:-1,Spain:TOPHITS MUSIC
+rtmp://$OPT:rtmp-raw=rtmp://rtmp.infomaniak.ch/livecast playpath=rougetv swfUrl=http://static.infomaniak.ch/livetv/playerMain-v4.2.63.swf?bLd=0&sVersion=4%2E2%2E63&sDescription=&sTitle= live=1 pageUrl=http://static.infomaniak.ch/configvideo/rougetv/rouge_tv_live_2011/live.html
+#EXTINF:-1,Spain:TRENDY
+http://uneapple-i.akamaihd.net/hls/live/205019/grupoune_st10@205019/st10_index.m3u8
+#EXTINF:-1,Spain:TV Agro
+http://uneapple-i.akamaihd.net/hls/live/205015/grupoune_st6@205015/st6_index.m3u8
+#EXTINF:-1,Spain:TV Extremadura
+rtmp://$OPT:rtmp-raw=rtmp://corporacionextremenaocclivefs.fplive.net/corporacionextremenalive-live/ playpath=stream1 swfUrl=http://www.canalextremadura.es/site...slx_reproductor/js/mediaplayer-5.7/player.swf live=1 pageUrl=http://www.canalextremadura.es/alacarta/tv/directo
+#EXTINF:-1,Spain:TV GALICIA
+http://media3.crtvg.es/live/tvge/hasbahca.m3u8
+#EXTINF:-1,Spain:TV MELILLA
+rtmp://$OPT:rtmp-raw=rtmp://stream.tvmelilla.es:1935/tvmelilla playpath=live swfUrl=http://tvmelilla.es/jwplayer/player.swf live=1 pageUrl=http://tvmelilla.es/directo.html
+#EXTINF:-1,Spain:TV Vida
+rtsp://flash3.todostreaming.es/radiovida/mobile
+#EXTINF:-1,Spain:TV3
+rtmp://tv-nogeo-flashlivefs.fplive.net/tv-nogeo-flashlive-live/stream_TV3_FLV
+#EXTINF:-1,Spain:TV5 Monde
+http://uneapple-i.akamaihd.net/hls/live/206412/grupoune_st11@206412/st11_index.m3u8
+#EXTINF:-1,Spain:TVE 24h
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1,Spain:TVG America
+http://media3.crtvg.es/live/tvga/hasbahca.m3u8
+#EXTINF:-1,Spain:UNE TV
+http://uneapple-i.akamaihd.net/hls/live/207643/grupoune_st24@207643/st24_index.m3u8
+#EXTINF:-1,Spain:UNE TV
+http://uneapple-i.akamaihd.net/hls/live/215944/grupoune_st33@215944/st33_index.m3u8
+#EXTINF:-1,Spain:UNE TV
+http://uneapple-i.akamaihd.net/hls/live/207646/grupoune_st27@207646/st27_index.m3u8
+#EXTINF:-1,Spain:UNLOVE TV-(Musica)
+rtmp://$OPT:rtmp-raw=rtmp://149.11.34.6/live playpath=unlovechannel.stream swfUrl=http://lasteles.com/js/mediaplayer-5.10/player.swf?171 live=1 pageUrl=http://lasteles.com/es/directo/UNLOVE-TV/video/Unlove-TV/7313
+#EXTINF:-1,Spain:US TWit
+http://bglive-a.bitgravity.com/twit/live/high
+#EXTINF:-1,Spain:VIO
+http://uneapple-i.akamaihd.net/hls/live/205018/grupoune_st9@205018/st9_index.m3u8
+#EXTINF:-1,Spain:VIT Channel 1
+rtmp://87.106.244.74/live/myStream_2
+#EXTINF:-1,Spain:VIT Channel 2
+rtmp://87.106.219.140/live/myStream_2
+#EXTINF:-1,Spain:VIT Channel 3
+rtmp://87.106.232.7/live/myStream_2
+#EXTINF:-1,Spain:VIT Channel 4
+rtmp://87.106.220.67/live/myStream_2
+#EXTINF:-1,Spain:VIVA
+rtmp://$OPT:rtmp-raw=rtmp://31.204.128.73/live/master21 swfUrl=http://www.cdnbr.biz/ pageUrl=http://www.cdnbr.biz/mastertv/
+#EXTINF:-1,Spain:VMAS TV
+http://uneapple-i.akamaihd.net/hls/live/207642/grupoune_st23@207642/st23_index.m3u8
+#EXTINF:-1,Spain:WARNER
+rtmp://$OPT:rtmp-raw=rtmp://31.204.128.76/live/master22 swfUrl=http://www.cdnbr.biz/ pageUrl=http://www.cdnbr.biz/mastertv/
+#EXTINF:-1,Spain:Yes!
+http://uneapple-i.akamaihd.net/hls/live/205010/grupoune_st1@205010/st1_index.m3u8
+#EXTINF:-1,Spain:Yes!
+http://uneapple-i.akamaihd.net/hls/live/206731/grupoune_st20@206731/st20_index.m3u8
+#EXTINF:-1,Portugal:***HasBahCa IPTV***PORTEKİZ_PORTUGAL***
+http://01.gen.tr/HasBahCa_IPTV/turkiye.mp4
+#EXTINF:-1,Portugal:Basta Crer
+rtmp://streamspub.manasat.com/live/bastacrer
+#EXTINF:-1,Portugal:Cartoon Network
+rtmp://$OPT:rtmp-raw=rtmp://31.204.128.140/live/ playpath=brlive_0028  swfUrl=http://www.tv-msn.com/player5.swf live=1  pageUrl=http://www.cdnbr.biz/mastertv/Cartoon Network.html
+#EXTINF:-1,Portugal:Discovery
+rtmp://$OPT:rtmp-raw=rtmp://31.204.128.75/live/ playpath=master04  swfUrl=http://www.tv-msn.com/player5.swf live=1  pageUrl=http://www.cdnbr.biz/mastertv/Discovery Channel.html
+#EXTINF:-1,Portugal:Disney
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=disney  swfUrl=http://www.tv-msn.com/player5.swf live=1  pageUrl=http://www.tv-msn.com/disney.html
+#EXTINF:-1,Portugal:Disney Channel
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=animax  swfUrl=http://www.tv-msn.com/player5.swf live=1  pageUrl=http://tv-msn.com/disneyjr.html
+#EXTINF:-1,Portugal:ECONOMICO TV
+http://213.13.26.12:1935/live/_definst_/etv_direto/hasbahca.m3u8
+#EXTINF:-1,Portugal:ECONOMICO TV
+rtmp://$OPT:rtmp-raw=rtmp://213.13.26.11/live/ playpath=etv_direto swfUrl=http://sicnoticias.sapo.pt/skins/sicnot/gfx/jwplayer/player.swf live=1 pageUrl=http://sicnoticias.sapo.pt/skins/sicnot/gfx/jwplayer/player.swf
+#EXTINF:-1,Portugal:Euronews
+rtmp://$OPT:rtmp-raw=rtmp://hd4.lsops.net/live/ playpath=bloomber_en_453 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf live=1 pageUrl=http://www.livestation.com/ --live
+#EXTINF:-1,Portugal:FOX
+rtmp://$OPT:rtmp-raw=rtmp://31.204.128.140/live/ playpath=fox  swfUrl=http://www.tv-msn.com/player5.swf live=1  pageUrl=http://www.cdnbr.biz/mastertv/FOX.html
+#EXTINF:-1,Portugal:FSB
+rtmp://$OPT:rtmp-raw=rtmp://31.204.153.72/live/ playpath=fsb  swfUrl=http://www.tv-msn.com/player5.swf live=1  pageUrl=http://www.cdnbr.biz/mastertv/FSB.html
+#EXTINF:-1,Portugal:FX
+rtmp://$OPT:rtmp-raw=rtmp://31.204.128.75/live/ playpath=master25  swfUrl=http://www.tv-msn.com/player5.swf live=1  pageUrl=http://www.cdnbr.biz/mastertv/FX.html
+#EXTINF:-1,Portugal:HBO Plus
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=hboplus  swfUrl=http://www.tv-msn.com/player5.swf live=1  pageUrl=http://tv-msn.com/hboplus.html
+#EXTINF:-1,Portugal:HBO2
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=hbo2  swfUrl=http://www.tv-msn.com/player5.swf live=1  pageUrl=http://tv-msn.com/hbo2.html
+#EXTINF:-1,Portugal:History
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=history  swfUrl=http://www.tv-msn.com/player5.swf live=1  pageUrl=http://tv-msn.com/history.html
+#EXTINF:-1,Portugal:Max HD
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=maxhd  swfUrl=http://www.tv-msn.com/player5.swf live=1  pageUrl=http://tv-msn.com/maxhd.html
+#EXTINF:-1,Portugal:MGM
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=mgm  swfUrl=http://www.tv-msn.com/player5.swf live=1  pageUrl=http://tv-msn.com/mgm.html
+#EXTINF:-1,Portugal:MTV
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=hbohd  swfUrl=http://www.tv-msn.com/player5.swf live=1  pageUrl=http://tv-msn.com/mtv.html
+#EXTINF:-1,Portugal:Nick JR
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=nickjr  swfUrl=http://www.tv-msn.com/player5.swf live=1  pageUrl=http://tv-msn.com/nickjr.htm
+#EXTINF:-1,Portugal:RTP 1
+rtmp://$OPT:rtmp-raw=rtmp://ec21.rtp.pt/livetv playpath=2ch5h264 swfUrl=http://www.rtp.pt/play/player.swf live=1 pageUrl=http://www.rtp.pt/noticias/votacao/?mysurvey=343r23
+#EXTINF:-1,Portugal:RTP 2
+rtmp://$OPT:rtmp-raw=rtmp://ec21.rtp.pt/livetv playpath=2ch3h264 swfUrl=http://www.rtp.pt/play/player.swf live=1 pageUrl=http://www.rtp.pt/noticias/votacao/?mysurvey=343r23
+#EXTINF:-1,Portugal:Telecine Action
+rtmp://$OPT:rtmp-raw=rtmp://31.204.128.75/live/ playpath=master17  swfUrl=http://www.tv-msn.com/player5.swf live=1  pageUrl=http://www.cdnbr.biz/mastertv/Telecine Action.html
+#EXTINF:-1,Portugal:Telecine Fun
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=fun2  swfUrl=http://www.tv-msn.com/player5.swf live=1  pageUrl=http://tv-msn.com/fun.html
+#EXTINF:-1,Portugal:Telecine Pipoca
+rtmp://$OPT:rtmp-raw=rtmp://31.204.128.74/live/ playpath=master18  swfUrl=http://www.tv-msn.com/player5.swf live=1  pageUrl=http://www.cdnbr.biz/mastertv/Telecine Pipoca.html
+#EXTINF:-1,Portugal:Telecine Premium
+rtmp://$OPT:rtmp-raw=rtmp://31.204.128.140/live/ playpath=master19  swfUrl=http://www.tv-msn.com/player5.swf live=1  pageUrl=http://www.cdnbr.biz/mastertv/Telecine Premium.html
+#EXTINF:-1,Portugal:Telecine Touch
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=touch  swfUrl=http://www.tv-msn.com/player5.swf live=1  pageUrl=http://tv-msn.com/touch.html
+#EXTINF:-1,Portugal:TNT
+rtmp://$OPT:rtmp-raw=rtmp://31.204.128.74/live/ playpath=master77  swfUrl=http://www.tv-msn.com/player5.swf live=1  pageUrl=http://www.cdnbr.biz/mastertv/TNT.html
+#EXTINF:-1,Portugal:Tooncast
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=tooncast  swfUrl=http://www.tv-msn.com/player5.swf live=1  pageUrl=http://tv-msn.com/tooncast.htm
+#EXTINF:-1,Portugal:TV Ciencia mms
+mms://video-wm.tvciencia.pt/video/tvcnews_256.wmv
+#EXTINF:-1,Portugal:Warner
+rtmp://$OPT:rtmp-raw=rtmp://31.204.128.76/live/ playpath=master22  swfUrl=http://www.tv-msn.com/player5.swf live=1  pageUrl=http://www.cdnbr.biz/mastertv/Warner Brothers.html
+#EXTINF:-1,USA:***HasBahCa IPTV***ABD - USA ***
+http://01.gen.tr/HasBahCa_IPTV/turkiye.mp4
+#EXTINF:-1,USA:1 on 1 Boxing TV
+http://204.107.26.145:1935/live/1988.low.stream/HasBahCa.m3u8
+#EXTINF:-1,USA:AMC HD
+rtmp://$OPT:rtmp-raw=rtmp://rtmp.zerocast.tv:1935/live playpath=TfRQx7deUAuncJwM047m swfUrl=http://20f3d0755392726229d8-7f14bc94688a30e4a2bde38a5eab6b77.r63.cf5.rackcdn.com/player.swf pageUrl=http://zerocast.tv/embed3.php?a=147&id=&width=580&height=400&autostart=true&strech=
+#EXTINF:-1,USA:American Horrors
+http://204.107.26.252:1935/live/393.high.stream/HasBahCa.m3u8
+#EXTINF:-1,USA:Cartoon Network
+rtmp://$OPT:rtmp-raw=rtmp://rtmp.zerocast.tv:1935/live playpath=08pydvp1b7ZwZb3a5TW1 swfUrl=http://20f3d0755392726229d8-7f14bc94688a30e4a2bde38a5eab6b77.r63.cf5.rackcdn.com/player.swf pageUrl=http://zerocast.tv/embed3.php?a=6&id=&width=580&height=400&autostart=true&strech=
+#EXTINF:-1,USA:CBS
+rtmp://$OPT:rtmp-raw=rtmp://rtmp.zerocast.tv:1935/live playpath=Ger61uLQ4fedzvjRjrB7 swfUrl=http://20f3d0755392726229d8-7f14bc94688a30e4a2bde38a5eab6b77.r63.cf5.rackcdn.com/player.swf pageUrl=http://zerocast.tv/embed3.php?a=127&id=&width=580&height=400&autostart=true&strech=
+#EXTINF:-1,USA:City of Boston TV English
+rtmp://streaming.cityofboston.gov/live/cable
+#EXTINF:-1,USA:Clubbing TV
+http://204.107.26.252:1935/live/691.high.stream/HasBahCa.m3u8
+#EXTINF:-1,USA:CW USA
+rtmp://$OPT:rtmp-raw=rtmp://rtmp.zerocast.tv:1935/live/ playpath=IWSyIjvWgHRCMM7MEJoZ swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=3a439185c0f4b61f swfVfy=1 pageUrl=http://zerocast.tv
+#EXTINF:-1,USA:Denver 8 TV mms
+mms://207.7.154.96/G0080_002?wmcache=0
+#EXTINF:-1,USA:Ebru TV
+http://204.107.26.252:1935/live/914.high.stream/HasBahCa.m3u8
+#EXTINF:-1,USA:eScapes HD TV
+http://204.107.26.252:1935/live/341.high.stream/HasBahCa.m3u8
+#EXTINF:-1,USA:ESPN USA
+rtmp://$OPT:rtmp-raw=rtmp://rtmp.zerocast.tv:1935/live playpath=YEZib0gVfqaDdaFn9MQ9 swfUrl=http://20f3d0755392726229d8-7f14bc94688a30e4a2bde38a5eab6b77.r63.cf5.rackcdn.com/player.swf pageUrl=http://zerocast.tv/embed3.php?a=39&id=&width=580&height=400&autostart=true&strech=
+#EXTINF:-1,USA:FOX
+rtmp://$OPT:rtmp-raw=rtmp://rtmp.zerocast.tv:1935/live playpath=9pxGCtP3aEnJYgoBFFH8 swfUrl=http://20f3d0755392726229d8-7f14bc94688a30e4a2bde38a5eab6b77.r63.cf5.rackcdn.com/player.swf pageUrl=http://zerocast.tv/embed3.php?a=96&id=&width=580&height=400&autostart=true&strech=
+#EXTINF:-1,USA:Free Speech TV
+http://204.107.26.252:1935/live/697.high.stream/HasBahCa.m3u8
+#EXTINF:-1,USA:FX USA
+rtmp://$OPT:rtmp-raw=rtmp://rtmp.zerocast.tv:1935/live/ playpath=VCV8SViFVBv2nX5RQwKI swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=3a439185c0f4b61f swfVfy=1 pageUrl=http://zerocast.tv
+#EXTINF:-1,USA:Ginx
+http://204.107.26.252:1935/live/796.high.stream/HasBahCa.m3u8
+#EXTINF:-1,USA:Havoc Television
+http://204.107.26.252:1935/live/335.high.stream/HasBahCa.m3u8
+#EXTINF:-1,USA:HBO
+rtmp://$OPT:rtmp-raw=rtmp://rtmp.zerocast.tv:1935/live playpath=qKmzUdRhBM73njBBDFyL swfUrl=http://20f3d0755392726229d8-7f14bc94688a30e4a2bde38a5eab6b77.r63.cf5.rackcdn.com/player.swf pageUrl=http://zerocast.tv/embed3.php?a=148&id=&width=580&height=400&autostart=true&strech=
+#EXTINF:-1,USA:HSN TV
+rtsp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31
+#EXTINF:-1,USA:iFlix TV
+http://204.107.26.252:1935/live/1991.high.stream/HasBahCa.m3u8
+#EXTINF:-1,USA:Mission TV
+rtmp://streamer1.streamhost.org/salive/GMImissiontvh
+#EXTINF:-1,USA:NBC
+rtmp://$OPT:rtmp-raw=rtmp://rtmp.zerocast.tv:1935/live playpath=3GdoAHRAxgZNzmQZL29l swfUrl=http://20f3d0755392726229d8-7f14bc94688a30e4a2bde38a5eab6b77.r63.cf5.rackcdn.com/player.swf pageUrl=http://zerocast.tv/embed3.php?a=83&id=&width=580&height=400&autostart=true&strech=
+#EXTINF:-1,USA:News 12 Long Island(Stream 1)
+rtmp://$OPT:rtmp-raw=rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-b4e3010000000000/fs-b4e3010000000000
+#EXTINF:-1,USA:News Bronx(Stream 1)
+rtmp://$OPT:rtmp-raw=rtmp://fs-b5e3010000000000.id.cdn.cv.net/vxedge/fs-b5e3010000000000/fs-b5e3010000000000
+#EXTINF:-1,USA:News Bronx(Weather)
+rtmp://$OPT:rtmp-raw=rtmp://fs-afe3010000000000.id.cdn.cv.net/vxedge/fs-afe3010000000000/fs-afe3010000000000
+#EXTINF:-1,USA:News Brooklyn(Stream 1)
+rtmp://$OPT:rtmp-raw=rtmp://fs-ace3010000000000.id.cdn.cv.net/vxedge/fs-ace3010000000000/fs-ace3010000000000
+#EXTINF:-1,USA:News Brooklyn(Weather)
+rtmp://$OPT:rtmp-raw=rtmp://fs-afe3010000000000.id.cdn.cv.net/vxedge/fs-afe3010000000000/fs-afe3010000000000
+#EXTINF:-1,USA:News Connecticut(Stream 1)
+rtmp://$OPT:rtmp-raw=rtmp://fs-bbe3010000000000.id.cdn.cv.net/vxedge/fs-bbe3010000000000/fs-bbe3010000000000
+#EXTINF:-1,USA:News Connecticut(Weather)
+rtmp://$OPT:rtmp-raw=rtmp://fs-b6e3010000000000.id.cdn.cv.net/vxedge/fs-b6e3010000000000/fs-b6e3010000000000
+#EXTINF:-1,USA:News Hudson Valley(Stream 1)
+rtmp://$OPT:rtmp-raw=rtmp://fs-bae3010000000000.id.cdn.cv.net/vxedge/fs-bae3010000000000/fs-bae3010000000000
+#EXTINF:-1,USA:News Hudson Valley(Weather)
+rtmp://$OPT:rtmp-raw=rtmp://fs-b8e3010000000000.id.cdn.cv.net/vxedge/fs-b8e3010000000000/fs-b8e3010000000000
+#EXTINF:-1,USA:News Long Island(Stream 2)
+rtmp://$OPT:rtmp-raw=rtmp://fs-b94e110000000000.id.cdn.cv.net/vxedge/fs-b94e110000000000/fs-b94e110000000000
+#EXTINF:-1,USA:News Long Island(Weather)
+rtmp://$OPT:rtmp-raw=rtmp://fs-aee3010000000000.id.cdn.cv.net/vxedge/fs-aee3010000000000/fs-aee3010000000000
+#EXTINF:-1,USA:News New Jersey(Stream 1)
+rtmp://$OPT:rtmp-raw=rtmp://fs-b9e3010000000000.id.cdn.cv.net/vxedge/fs-b9e3010000000000/fs-b9e3010000000000
+#EXTINF:-1,USA:News New Jersey(Weather)
+rtmp://$OPT:rtmp-raw=rtmp://fs-b3e3010000000000.id.cdn.cv.net/vxedge/fs-b3e3010000000000/fs-b3e3010000000000
+#EXTINF:-1,USA:News Westchester(Stream 1)
+rtmp://$OPT:rtmp-raw=rtmp://fs-bce3010000000000.id.cdn.cv.net/vxedge/fs-bce3010000000000/fs-bce3010000000000
+#EXTINF:-1,USA:News Westchester(Weather from Hudson Valley)
+rtmp://$OPT:rtmp-raw=rtmp://fs-b8e3010000000000.id.cdn.cv.net/vxedge/fs-b8e3010000000000/fs-b8e3010000000000
+#EXTINF:-1,USA:NewsPeople tv
+http://149.11.34.78:1935/live/newspeopletv.stream/hasbahca.m3u8
+#EXTINF:-1,USA:NickelodeonUS
+rtmp://$OPT:rtmp-raw=rtmp://rtmp.zerocast.tv:1935/live playpath=fCqfhb14WwwFbAsDbV3Z swfUrl=http://20f3d0755392726229d8-7f14bc94688a30e4a2bde38a5eab6b77.r63.cf5.rackcdn.com/player.swf pageUrl=http://zerocast.tv/embed3.php?a=14&id=&width=580&height=400&autostart=true&strech=
+#EXTINF:-1,USA:Pac Mountain 1920*1080
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:-1,USA:PAC National 1280*720
+http://xrxs.net/video/live-p12netw-2328.m3u8
+#EXTINF:-1,USA:PAC National 640*360
+http://xrxs.net/video/live-p12netw-1164.m3u8
+#EXTINF:-1,USA:PAC-12 Net. (Arizona) 1280*720
+http://xrxs.net/video/live-p12ariz-2328.m3u8
+#EXTINF:-1,USA:PAC-12 Net. (Arizona) 1920*1080
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:-1,USA:PAC-12 Net. (Arizona) 640*360
+http://xrxs.net/video/live-p12ariz-1164.m3u8
+#EXTINF:-1,USA:PAC-12 Net. (Bay Area) 1280*720
+http://xrxs.net/video/live-p12baya-2328.m3u8
+#EXTINF:-1,USA:PAC-12 Net. (Bay Area) 1920*1080
+http://xrxs.net/video/live-p12baya-4728.m3u8
+#EXTINF:-1,USA:PAC-12 Net. (Los Angeles) 1280*720
+http://xrxs.net/video/live-p12losa-2328.m3u8
+#EXTINF:-1,USA:PAC-12 Net. (Los Angeles) 640*360
+http://xrxs.net/video/live-p12losa-1164.m3u8
+#EXTINF:-1,USA:PAC-12 Net. (Oregon) 1280*720
+http://xrxs.net/video/live-p12oreg-2328.m3u8
+#EXTINF:-1,USA:PAC-12 Net. (Oregon) 1920*1080
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1,USA:PAC-12 Net. (Oregon) 640*360
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+#EXTINF:-1,USA:PAC-12 Net. (Washington) 1280*720
+http://xrxs.net/video/live-p12wash-2328.m3u8
+#EXTINF:-1,USA:PAC-12 Net. (Washington) 1920*1080
+http://xrxs.net/video/live-p12wash-4728.m3u8
+#EXTINF:-1,USA:PAC-12 Net. (Washington) 640*360
+http://xrxs.net/video/live-p12wash-1164.m3u8
+#EXTINF:-1,USA:Pentagon Channel
+http://149.11.34.6:1935/live/pentagon.stream/hasbahca.m3u8
+#EXTINF:-1,USA:Press TV
+http://204.107.26.252:1935/live/905.high.stream/HasBahCa.m3u8
+#EXTINF:-1,USA:Psychic Today
+http://204.107.26.252:1935/live/1711.high.stream/HasBahCa.m3u8
+#EXTINF:-1,USA:QVC HD
+http://204.107.26.252:1935/live/413.high.stream/HasBahCa.m3u8
+#EXTINF:-1,USA:Spike HD USA
+rtmp://$OPT:rtmp-raw=rtmp://rtmp.zerocast.tv:1935/live playpath=5MHkm6cQaL5rJZpCSL1C swfUrl=http://20f3d0755392726229d8-7f14bc94688a30e4a2bde38a5eab6b77.r63.cf5.rackcdn.com/player.swf pageUrl=http://zerocast.tv/embed3.php?a=15&id=&width=580&height=400&autostart=true&strech=
+#EXTINF:-1,USA:Sportskool
+http://204.107.26.252:1935/live/686.high.stream/HasBahCa.m3u8
+#EXTINF:-1,USA:TNT
+rtmp://$OPT:rtmp-raw=rtmp://rtmp.zerocast.tv:1935/live playpath=Waz0WqvbqNHmt0gdzrsm swfUrl=http://20f3d0755392726229d8-7f14bc94688a30e4a2bde38a5eab6b77.r63.cf5.rackcdn.com/player.swf pageUrl=http://zerocast.tv/embed3.php?a=18&id=&width=580&height=400&autostart=true&strech=
+#EXTINF:-1,USA:University of California TV
+rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800
+#EXTINF:-1,USA:USANetwork
+rtmp://$OPT:rtmp-raw=rtmp://rtmp.zerocast.tv:1935/live playpath=jvZXQUYQmlsPirfiVK1G swfUrl=http://20f3d0755392726229d8-7f14bc94688a30e4a2bde38a5eab6b77.r63.cf5.rackcdn.com/player.swf pageUrl=http://zerocast.tv/embed3.php?a=19&id=&width=580&height=400&autostart=true&strech=
+#EXTINF:-1,USA:Vernnissage TV
+http://149.11.34.6:1935/live/vernissagetv.stream/hasbahca.m3u8
+#EXTINF:-1,USA:Wealth TV
+http://204.107.26.252:1935/live/403.high.stream/HasBahCa.m3u8
+#EXTINF:-1,USA:YouToo
+http://204.107.26.252:1935/live/773.high.stream/HasBahCa.m3u8

@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1,  Animal Planet 
+http://202.75.23.34:1400/live/ch31/01.m3u8
+
+#EXTINF:-1,  Fyi CH 
+http://202.75.23.36:1400/live/ch46/04.m3u8
+
+#EXTINF:-1,  Discovery 
+http://202.75.23.34:1400/live/ch29/01.m3u8
+
+#EXTINF:-1,  Discovery Home 
+http://202.75.23.34:1400/live/ch34/01.m3u8
+
+#EXTINF:-1,  Discovery World 
+http://202.75.23.34:1400/live/ch30/01.m3u8
+
+#EXTINF:-1,  NatGeo 
+http://202.75.23.35:1400/live/ch38/01.m3u8
+
+#EXTINF:-1,  History 
+http://202.75.23.36:1400/live/ch45/03.m3u8
+
+#EXTINF:-1,  Fight Sports 
+http://202.75.23.37:1400/live/ch20/03.m3u8
+
+#EXTINF:-1,  Lifetime 
+http://202.75.23.36:1400/live/ch48/03.m3u8
+
+#EXTINF:-1,  Nickelodeon 
+http://202.75.23.36:1400/live/ch43/01.m3u8
+
+#EXTINF:-1,  Channel News Asia 
+http://202.75.23.37:1400/live/ch15/04.m3u8

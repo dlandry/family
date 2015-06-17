@@ -1,0 +1,372 @@
+#EXTM3U
+#EXTINF:-1,ABC News 
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+
+#EXTINF:-1,Al Jazeera News 
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_528.m3u8
+
+
+#EXTINF:-1,Alalamia 
+rtmp://ns8.indexforce.com/alalamia/alalamia 
+#EXTINF:-1,Beauty TV 
+rtsp://46.249.213.87/broadcast/beautytv-tablet.3gp
+
+
+#EXTINF:-1,DoughyGuy Broadcast System
+ http://65.60.19.42:8380/;stream.nsv 
+
+#EXTINF:-1,Fresh TV
+ rtmp://80.93.53.88:1935/live/channel_4 
+
+#EXTINF:-1,gotica tv 
+rtmp://149.11.34.6:1935/live/gotica.stream 
+
+#EXTINF:-1,HSN TV 
+rtsp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31 
+
+#EXTINF:-1,Lobas Tv 
+rtmp://149.11.34.6/live/lobas.stream 
+
+#EXTINF:-1,Music Box UA 
+rtmp://212.26.132.86/live/mb_ua 
+
+#EXTINF:-1,offroad tv 
+rtmp://grey.ether.tv/live/fulltime/broadcast4 
+
+#EXTINF:-1,Peace Tv Asia 
+rtmp://peace.fms.visionip.tv/live/b2b-peace_asia-live-25f-4×3-sdh_1 
+
+#EXTINF:-1,QVC TV UK 
+rtmp://cp79650.live.edgefcs.net/live/QVCLive1@14308 
+
+#EXTINF:-1,Revelation TV 
+rtmp://revelationtv.fms6.visionip.tv/live/b2b-revelation_tv-revelation_tv-live-25f-16x9_3? USER=Revelation_TV 
+
+#EXTINF:-1,Rocks n Co. TV
+rtmp://rockscolivefs.fplive.net/rockscolive-live/stream002
+
+#EXTINF:-1,RUS TODAY
+http://rt.com/s/rtplayer/playlists/rt_global.m3u8 
+
+#EXTINF:-1,Sky News 
+mms://live1.wm.skynews.servecast.net/skynews_wmlz_live300k 
+
+#EXTINF:-1,teledom 
+rtmp://91.209.128.203/live/teledom3
+ 
+#EXTINF:-1,TWiT US 
+http://bglive-a.bitgravity.com/twit/live/high
+ 
+#EXTINF:-1,virgin1 
+rtmp://fms.105.net:1935/live/
+
+#EXTINF:-1,Animal Planet HD 
+http://202.75.23.34/live/ch31/03.m3u8
+
+#EXTINF:-1,BBC News 
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+
+
+#EXTINF:-1,Vevo TV 1 
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+
+#EXTINF:-1,Vevo TV 2 
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+
+#EXTINF:-1,Vevo TV 3 
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+
+#EXTINF:-1,Channel 4 
+http://cdn.live.simplestream.com/VKWY6U2RIGO3J8KQ0Q7B/5/playlist-limelight.m3u8
+
+#EXTINF:-1,Channel 5 
+http://cdn.live.simplestream.com/Z41HSAHP2SD4XFSXTT3B/5/playlist-limelight.m3u8
+
+#EXTINF:-1,Cinestream TV 
+http://68.71.42.179/live/livestream1/playlist.m3u8
+
+#EXTINF:-1,CNBC 
+http://livestation_hls-lh.akamaihd.net/i/cnbc_en@106428/master.m3u8
+
+
+
+#EXTINF:-1,Deutsche Welle 
+http://dwtvios_asiaplus-i.akamaihd.net/hls/live/200521-b/dwtvasiaplus/x1x/playlist1x.m3u8
+
+
+
+
+
+#EXTINF:-1,Discovery Channel 
+http://83.139.104.123/Content/HLS/Live/Channel(discovery_channel)/index.m3u8
+
+
+
+
+
+#EXTINF:-1,HavocTV
+rtmp://204.107.26.252:8086/live/335.high.stream
+
+#EXTINF:-1,CHANNEL 2
+rtmp://204.107.26.252:8086/live/341.high.stream
+
+#EXTINF:-1,AWE 
+rtmp://204.107.26.252:8086/live/403.high.stream
+
+#EXTINF:-1,QVCHD 
+rtmp://204.107.26.252:8086/live/413.high.stream
+
+#EXTINF:-1, Royal Time 
+rtmp://204.107.26.252:8086/live/414.high.stream
+
+#EXTINF:-1,Sportskool 
+rtmp://204.107.26.252:8086/live/686.high.stream
+
+#EXTINF:-1,MotorZ
+rtmp://204.107.26.252:8086/live/773.high.stream
+
+#EXTINF:-1,Gaming TV 24/7 
+rtmp://204.107.26.252:8086/live/796.high.stream
+
+#EXTINF:-1,CHANNEL 9
+rtmp://204.107.26.252:8086/live/813.high.stream
+
+#EXTINF:-1,PressTV 
+rtmp://204.107.26.252:8086/live/905.high.stream
+
+#EXTINF:-1,EBR
+rtmp://204.107.26.252:8086/live/914.high.stream
+
+#EXTINF:-1,Teradek stream
+rtmp://204.107.26.252:8086/live/1711.high.stream
+
+#EXTINF:-1,Shout (StandUP Comedy) 
+rtmp://204.107.26.252:8086/live/1991.high.stream
+
+#EXTINF:-1,TVC+ Latino
+rtmp://204.107.26.252:8086/live/213.high.stream
+
+#EXTINF:-1,I24 News English 
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
+
+
+
+#EXTINF:0,Pink Action 2
+http://on108.setplex.net/fastv_2psh/PinkAction2global_rly_greece_103/playlist.m3u8
+
+#EXTINF:0,Pink Premium
+http://on108.setplex.net/fastv_2psh/PinkPremiumglobal_rly_greece_103/playlist.m3u8
+
+#EXTINF:0,Pink Movies 2
+http://on108.setplex.net/fastv_2psh/PinkMovies2global_rly_greece_109/playlist.m3u8
+
+#EXTINF:0,Pink Movies 3
+http://on108.setplex.net/fastv_2psh/PinkMovies3global_rly_greece_109/playlist.m3u8
+
+#EXTINF:0,Pink Horror
+http://on108.setplex.net/fastv_2psh/PinkHorrorglobal_rly_greece_103/playlist.m3u8
+
+#EXTINF:0,Pink Comedy
+http://on108.setplex.net/fastv_2psh/PinkComedyglobal_rly_greece_103/playlist.m3u8
+
+#EXTINF:0,Pink Family
+http://on108.setplex.net/fastv_2psh/PinkFamilyglobal_rly_greece_103/playlist.m3u8
+
+#EXTINF:0,Pink Reality
+http://on108.setplex.net/fastv_2psh/PinkRealityglobal_rly_greece_103/playlist.m3u8
+
+#EXTINF:0,Pink 2
+http://on108.setplex.net/fastv_2psh/Pink2global_rly_greece_109/playlist.m3u8
+
+#EXTINF:0,Pink Music
+http://on108.setplex.net/fastv_2psh/PinkMusicglobal_rly_greece_103/playlist.m3u8
+
+#EXTINF:0,Pink Kids
+http://on108.setplex.net/fastv_2psh/PinkKidsglobal_rly_greece_103/playlist.m3u8
+
+#EXTINF:0,Pink Soap
+http://on108.setplex.net/fastv_2psh/PinkSoapglobal_rly_greece_103/playlist.m3u8
+
+#EXTINF:0,pink Zabava
+http://on108.setplex.net/fastv_2psh/PinkZabavaglobal_rly_greece_103/playlist.m3u8
+
+#EXTINF:0,Pink World
+http://on108.setplex.net/fastv_2psh/PinkWorldglobal_rly_greece_109/playlist.m3u8
+
+#EXTINF:0,Pink 3
+http://on108.setplex.net/fastv_2psh/Pink3global_rly_greece_109/playlist.m3u8
+
+#EXTINF:0,Pink Music 2
+http://on108.setplex.net/fastv_2psh/PinkMusic2global_rly_greece_103/playlist.m3u8
+
+#EXTINF:0,Pink Music 3
+http://on108.setplex.net/fastv_2psh/PinkMusic3global_rly_greece_103/playlist.m3u8
+
+#EXTINF:0,Pink Premium
+http://on108.setplex.net/fastv_2psh/PinkPremiumglobal_rly_greece_103/playlist.m3u8
+
+#EXTINF:0,Pink Fashion
+http://on108.setplex.net/fastv_2psh/PinkFashionglobal_rly_greece_103/playlist.m3u8
+
+#EXTINF:0,Pink Music 4
+http://on108.setplex.net/fastv_2psh/PinkMusic4global_rly_greece_103/playlist.m3u8
+
+#EXTINF:0,Pink Music 5
+http://on108.setplex.net/fastv_2psh/PinkMusic5global_rly_greece_103/playlist.m3u8
+
+#EXTINF:0,Pink Pedia
+http://on108.setplex.net/fastv_2psh/PinkPediaglobal_rly_greece_103/playlist.m3u8
+
+#EXTINF:0,Pink Live
+http://on108.setplex.net/fastv_2psh/PinkLiveglobal_rly_greece_103/playlist.m3u8
+
+#EXTINF:0,Pink Nostalgija
+http://on108.setplex.net/fastv_2psh/PinkNostalgijaglobal_rly_greece_103/playlist.m3u8
+
+#EXTINF:0,Pink M
+http://on108.setplex.net/fastv_2psh/PinkMglobal_rly_greece_109/playlist.m3u8
+
+#EXTINF:0,Pink Folk 1
+http://on108.setplex.net/fastv_2psh/PinkFolk1global_rly_greece_103/playlist.m3u8
+
+#EXTINF:0,Pink Folk 2
+http://on108.setplex.net/fastv_2psh/PinkFolk2global_rly_greece_103/playlist.m3u8
+
+#EXTINF:0,Pink
+http://on108.setplex.net/fastv_2psh/Pinkglobal_rly_greece_109/playlist.m3u8
+
+#EXTINF:0,Pink Movies
+http://on108.setplex.net/fastv_2psh/PinkMoviesglobal_rly_greece_109/playlist.m3u8.#EXTINF:-1,Kiss TV 
+http://csm-e.cds1.yospace.com/csm/live/86561716.m3u8
+
+
+
+
+#EXTINF:-1,4 Music 
+http://csm-e.cds1.yospace.com/csm/live/86550614.m3u8
+
+#EXTINF:-1,Nasa TV HD 
+http://public.infozen.cshls.lldns.net/infozen/public/public.m3u8
+
+
+
+#EXTINF:-1,Now Thats What I Call Music Channel 
+http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1,Planet Pop 
+http://cdn.live.simplestream.com/D6I0S4IWX8O1NJDNBTRE/3/playlist-limelight.m3u8
+
+#EXTINF:-1,Rouge TV 
+http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8
+
+#EXTINF:-1,Russia Today 
+http://rt.com/s/rtplayer/playlists/rt_global.m3u8
+
+#EXTINF:-1,Smash Hits 
+http://csm-e.cds1.yospace.com/csm/live/86561609.m3u8
+
+
+
+#EXTINF:-1,STV Scotland   
+http://csm-e-usc1-9.cds1.yospace.com/csm/live/92981621.m3u8
+
+
+
+#EXTINF:-1,The How I Met Your Mother Channel 
+http://s2.mvds1.org/media/tv/howimetyourmother/How.I.Met.Your.Mother.S08E16.HDTV.x264-LOL.mp4
+
+#EXTINF:-1,TLC 
+http://83.139.104.123/Content/HLS/Live/Channel(TLC)/Stream(03)/index.m3u8
+
+#EXTINF:-1,TV1000
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_TV1000/variant.m3u8
+
+#EXTINF:-1,TV1000 Action 
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_TV1000ACTION/variant.m3u8
+
+
+
+
+#EXTINF:-1,Viasat Nature
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_VIASATNATURE/variant.m3u8
+
+
+#EXTINF:-1, EuroNews 
+http://hd1.lsops.net/live/euronews_fr_340/.m3u8
+
+#EXTINF:-1,BFMTV  
+http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8
+
+#EXTINF:-1, Arte 
+http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8 
+
+#EXTINF:-1, KTO 
+http://mobile.ktotv.com/live/KTO_Layer1.m3u8 
+
+#EXTINF:-1, WEO 
+http://str81.creacast.com/weo/high/playlist.m3u8 
+
+#EXTINF:-1, Alsace 20 
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8 
+
+#EXTINF:-1, RTC 
+http://media.rtc.be/vod/mp4:166597.mp4/playlist.m3u8 
+
+#EXTINF:-1, RTC 
+http://media.webtvlive.eu/rtc/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1, Hasbahca 
+http://stream.air-tv.tv/live/_definst_/web2.stream/hasbahca.m3u8?wowzasessionid=1856325861 
+
+#EXTINF:-1, Notele 
+http://streaming06.axeweb.be:1935/live/direct.stream/playlist.m3u8 
+#EXTINF:-1, Imedi http://powerstream.iphonewebtown.com:1935/imedi/mystream/playlist.m3u8 
+
+#EXTINF:-1, Il TV 
+http://str81.creacast.com:80/iltv/high/playlist.m3u8 
+
+#EXTINF:-1, Opal TV 
+http://str81.creacast.com:80/opaltv/high/playlist.m3u8 
+
+#EXTINF:-1, I Film 
+http://mtv.ashttp7.visionip.tv/live/mtv-ifilm-ifilm-live-16x9-SD/playlist.m3u8
+
+#EXTINF:-1, I Tele 
+http://hls-live-m2-l3.canal-plus.com/live/hls/itele-clair-v3-sd-andr7/and-sd-clair/index.m3u8 
+
+#EXTINF:-1, Oui FM 
+http://rtmp.infomaniak.ch/livecast/ouitv/playlist.m3u8 
+
+#EXTINF:-1, La Tele 
+http://rtmp.infomaniak.ch/livecast/latele/playlist.m3u8 
+
+#EXTINF:-1, LCN 
+http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8 
+
+#EXTINF:-1, Yveline1 
+http://rtmp.infomaniak.ch/livecast/yveline1/playlist.m3u8 
+
+#EXTINF:-1,  Rouge TV 
+http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8 
+
+#EXTINF:-1,ClubLand
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1,Now Music
+http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1,,CapitolMusicTV
+rtmp://cdn-the-2.musicradio.com:80/LiveVideo/Capital
+
+#EXTINF:-1,RMC1
+rtmp://fms.105.net:1935/live/rmc1
+
+#EXTINF:-1,VirginTV Radio
+rtmp://fms.105.net:1935/live/virgin1
+
+#EXTINF:-1,HipHop Music Channel
+http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8
+
+
+
+
